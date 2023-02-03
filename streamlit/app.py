@@ -25,3 +25,6 @@ if st.checkbox('Show raw data'):
     st.subheader('Raw data')
     st.write(df)
 
+fig = px.pie(df, values=df['state'].value_counts(), names=['mobile','connect'], title='Differents agreements for rental')
+st.plotly_chart(fig, theme=None, use_container_width=True)
+
