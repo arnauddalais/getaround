@@ -2,7 +2,7 @@ Bloc n°5 : Industrialisation d'un algorithme d'apprentissage automatique et aut
 
 Contact: Arnaud DALAIS E-mail : arnaud.dalais@free.fr
 
-Video link : 👉 👈
+Video link : 👉 https://share.vidyard.com/watch/7GFQeTCn49mcR4GLtBrrsW? 👈
 
 Subject:
 
